@@ -1,4 +1,4 @@
-Flas server
+Flask server
 
 https://nuancesprog.ru/p/7105/
 
