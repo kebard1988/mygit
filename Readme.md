@@ -6,3 +6,6 @@ https://nuancesprog.ru/p/7105/
 
 volumes:
       - [the scripts dir]:/docker-entrypoint-initdb.d
+
+django docker
+https://webdevblog.ru/kak-ispolzovat-django-postgresql-i-docker/
